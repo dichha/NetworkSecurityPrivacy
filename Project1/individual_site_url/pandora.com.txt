@@ -1,0 +1,16 @@
+http://www.pandora.com/static/images/p1_gift/choices/gift_choices.js
+http://www.pandora.com/static/ribbon/account_messages.js
+http://www.pandora.com/js/libs/jquery.jplayer-2.3.9/jquery.jplayer.min.js?v=881151911
+http://www.pandora.com/script.combined.js?v=881151911
+http://www.pandora.com/pandora.js?v=881151911
+https://player.ooyala.com/v3/4a71bfa5c2bf45e9b11ee25cb6092f15?version=d77f40e914dabaff91d0956d4a01ee5bec127789
+http://vassg142.ocsp.omniroot.com/
+https://www.pandora.com/iframe.vm
+http://www.pandora.com/static/valances/pandora/default/skin_background.jpg
+http://www.pandora.com/img/pandora-logo.png
+http://ss.symcd.com/
+https://www.pandora.com/js/json2.min.js
+https://www.pandora.com/js/libs/jquery-1.9.1.min.js
+https://www.pandora.com/js/libs/jstorage.min.js
+https://www.pandora.com/js/libs/underscore-1.2.1.min.js
+http://s.pubmine.com/ul_cb/match?bidder_id=1&external_user_id=93cf1f5b-8714-4b51-83de-17b19b8f4ba5

@@ -1,0 +1,4 @@
+http://clients1.google.com/ocsp
+https://www.google.com.sg/images/nav_logo242.png
+https://www.google.com.sg/images/branding/product/ico/googleg_lodp.ico
+https://www.google.com.sg/images/branding/product/ico/googleg_lodp.ico

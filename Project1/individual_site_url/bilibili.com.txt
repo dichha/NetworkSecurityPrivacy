@@ -1,0 +1,13 @@
+http://static.hdslb.com/css/core-v5/page-core.css
+http://static.hdslb.com/js/jquery.min.js
+http://static.hdslb.com/js/jquery-ui.min.js
+http://static.hdslb.com/js/core-v5/base.core.js
+http://static.hdslb.com/css/index.css
+http://static.hdslb.com/js/core-v5/page.core.js
+http://static.hdslb.com/js/core-v5/page.index.js
+http://www.bilibili.com/html/ads-index.js
+http://www.bilibili.com/online.js
+http://static.hdslb.com/images/favicon.ico
+http://static.hdslb.com/images/favicon.ico
+http://static.hdslb.com/js/core-v5/picment.min.js
+http://www.bilibili.com/index/ding-count.json

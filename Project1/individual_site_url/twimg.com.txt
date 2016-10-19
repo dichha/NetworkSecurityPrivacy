@@ -1,0 +1,4 @@
+http://www.cnnic.cn/favicon.ico#-moz-resolution=16,16
+http://hm.baidu.com/hm.gif?cc=0&ck=1&cl=24-bit&ds=1366x768&ep=3395%2C1&et=3&ja=1&ln=en-US&lo=0&nv=0&rnd=1761933050&si=5a25061016ff6f738b9d9b5fdaadbf1c&st=4&v=1.1.29&lv=1
+http://www.cnnic.cn/images/qustion.png
+http://www.cnnic.cn/images/chaxun.jpg

@@ -1,0 +1,10 @@
+http://ocsp.msocsp.com/
+https://cs.microsoft.com/getid.js?jsoncb=MscomSetFPC
+https://iwprod.msocdn.com/16.00.1439.006/en-US/css/webfonts/SegoeUI-SemiBold-final.woff
+https://assets.onestore.ms/cdnfiles/onestorerolling-1608-23000/shell/v3/fonts/shell-icons-0.4.0.woff
+https://c.microsoft.com/trans_pixel.aspx?wcs.tz=-5&wcs.cot=0&wcs.route=12271&wcs.ctrl=SD100&wcs.ts=1475871842656&wcs.fpc=ID%253Df8d5d4549a914481871c8a6a242be015%2526CS%253D0%2526LV%253D201610&wcs.cd=0&wcs.eid=4d117f94-a161-c071-3a65-b2cd538eb98b&wcs.sr=1366x768&wcs.bs=993x2612&wcs.rsd=www.office.com&wcs.rsus=%2F&wcs.rsqs=&wcs.rihs=1&wcs.cks=&wcs.ti=Microsoft%20Office%20Home&wcs.v=4&wcs.vct=1&wcs.vs=0&wcs.vclt=1&wcs.vfpv=1&wcs.et=0&ms.lang=en&ms.loc=US&ms.ocpub.assetid=Office.com%20Homepage&ms.env=prod&ms.sitever=4&ms.auth.type=&ms.opt_tid=LandBusinessTrialOnInformationalPage%2C%20BannerSignIn&ms.opt_eid=BusinessTrialLandOnSignupPage&wcs.tr=0
+https://c1.microsoft.com/c.gif?DI=4050&did=1&t=
+https://www.office.com/api/instrument/logappear?hint=pmg-global-header
+https://www.office.com/api/instrument/logappear?hint=hero-banner-section
+https://www.office.com/api/instrument/logappear?hint=app-launcher-section
+http://ocsp.msocsp.com/

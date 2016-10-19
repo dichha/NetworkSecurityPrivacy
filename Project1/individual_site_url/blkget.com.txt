@@ -1,0 +1,8 @@
+http://www.blkget.com/files/style.css
+http://www.blkget.com/Contact%20Us_files/prum.min.js
+http://www.blkget.com/Contact%20Us_files/mathcaptcha.js
+http://www.blkget.com/files/up.png
+http://www.blkget.com/files/rhv.png
+http://www.blkget.com/favicon.ico
+http://www.blkget.com/favicon.ico#-moz-resolution=16,16
+http://www.blkget.com/favicon.ico

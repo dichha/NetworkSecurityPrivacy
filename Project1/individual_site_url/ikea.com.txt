@@ -1,0 +1,7 @@
+http://www.ikea.com/ext/ikeagateway/styles.css
+http://www.ikea.com/ext/ikeagateway/statics/logo.svg
+http://www.ikea.com/ext/ikeagateway/bundle.js
+http://tags.tiqcdn.com/utag/ikea/global-splash-page/prod/utag.js
+http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png
+http://www.ikea.com/ext/ikeagateway/statics/ikea_gateway_hero_L_5.jpg
+http://www.ikea.com/favicon.ico

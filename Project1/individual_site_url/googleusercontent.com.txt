@@ -1,0 +1,4 @@
+http://www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png
+http://www.googleusercontent.com/favicon.ico
+http://www.googleusercontent.com/favicon.ico
+http://www.googleusercontent.com/favicon.ico#-moz-resolution=16,16

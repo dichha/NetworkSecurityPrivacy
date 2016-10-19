@@ -1,0 +1,16 @@
+http://www.dmm.co.jp/css/www.dmm.com.top.css?1474880833
+http://www.dmm.co.jp/js/library/jquery_1_8_3/jquery-1.8.3.min.js?1358679782
+http://www.dmm.co.jp/js/bugfix.js?1421734015
+http://www.dmm.co.jp/js/jquery.cookie.js?1306488093
+http://www.dmm.co.jp/js/localize_welcome.js?1461295284
+http://www.dmm.co.jp/js/common/set_tracking.js?1472622208
+http://www.dmm.co.jp/js/s_code_dummy.js
+http://www.dmm.co.jp/js/mbox.js
+http://www.dmm.com/js/marketing/conf.js
+http://www.dmm.co.jp/js/marketing/gtm.js
+http://p.dmm.com/p/common/header/logo/logo_com.png
+http://www.dmm.co.jp/js/head_parts_logo.js?1435545314
+http://p.dmm.com/p/bnr/ad/bottom/common_bottom_g.jpg
+http://www.dmm.co.jp/favicon.ico
+http://www.dmm.co.jp/favicon.ico
+http://www.dmm.co.jp/favicon.ico#-moz-resolution=16,16

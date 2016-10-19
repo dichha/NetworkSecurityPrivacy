@@ -1,0 +1,9 @@
+https://www.google.com.bd/?gws_rd=ssl
+http://clients1.google.com/ocsp
+https://www.amazon.cn/gp/aui/record.html?rid=CXB0NZAT92679NNG10Y9&sid=451-4133576-0748950&wlab=AUI_75278%3AT2&t=1475873019343&type=i
+https://www.google.com.bd/images/nav_logo242.png
+https://www.google.com.bd/images/branding/product/ico/googleg_lodp.ico
+https://www.google.com.bd/images/branding/product/ico/googleg_lodp.ico
+https://www.google.com.bd/xjs/_/js/k=xjs.s.bn.IzUFlav2zG4.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,j,p,d,csi/am=AIGSJEAB4v8hINxCsCAVYGAQ/rt=j/d=1/t=zcms/rs=ACT90oGtmazTwND_-qNuZ4Un5xgjdeIUOA
+https://www.google.com.bd/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+https://ssl.gstatic.com/gb/images/i1_1967ca6a.png

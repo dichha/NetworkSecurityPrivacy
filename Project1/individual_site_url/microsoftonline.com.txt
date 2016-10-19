@@ -1,0 +1,13 @@
+https://login.microsoftonline.com/
+http://sr.symcd.com/
+https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4856.17/content/cdnbundles/login.min.css
+https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4856.17/content/cdnbundles/jquery.1.11.min.js
+https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4856.17/content/cdnbundles/aad.login.min.js
+https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4856.17/content/images/microsoft_logo.png
+https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4856.17/content/images/favicon_a.ico
+https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4856.17/content/images/favicon_a.ico
+http://ss.symcd.com/
+https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4856.17/content/cdnbundles/login_hover.min.css
+https://secure.aadcdn.microsoftonline-p.com/dbd5a2dd-6ybrougjmflxqw910ieyohr7wb4x4-yvoixrlaidmz4/appbranding/askzfdsqe20i-bcjwporaywega7vbt4acqnn1hiliiw/0/bannerlogo?ts=635974776182591704
+https://secure.aadcdn.microsoftonline-p.com/dbd5a2dd-6ybrougjmflxqw910ieyohr7wb4x4-yvoixrlaidmz4/appbranding/askzfdsqe20i-bcjwporaywega7vbt4acqnn1hiliiw/0/heroillustration?ts=635974776187911809
+https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4856.17/content/images/favicon_a.ico#-moz-resolution=16,16

@@ -1,0 +1,4 @@
+http://s.m.huffpost.com/assets/fonts/proxima-nova-condensed-90d50129641d2b959ad54ab4b14c3af5.css
+http://s.m.huffpost.com/assets/fonts/open-sans-condensed-bold-latin-a83275eb99043fa22138fd096a1da848.css
+http://s.m.huffpost.com/assets/fonts/proxima-nova-bold-6bdfc864744b144366b8f735598378d4.css
+http://s.m.huffpost.com/assets/huffington-icons-5e36176d9cc3609740c250b01404feff.woff

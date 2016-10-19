@@ -1,0 +1,16 @@
+https://www.wordpress.com/
+https://wordpress.com/
+http://ocsp.godaddy.com/
+https://s1.wp.com/i/fonts/merriweather/merriweather.css?v=20160222
+https://fonts.googleapis.com/css?family=Merriweather+Sans:400,300,300italic
+https://s1.wp.com/home.logged-out/css/user-segments-plans.css?v=1475752107
+https://s1.wp.com/home.logged-out/js/modernizr.js?v=1446464239
+https://s1.wp.com/home.logged-out/images/wpcom-white.svg
+https://s1.wp.com/home.logged-out/images/plan-free.svg
+https://s1.wp.com/home.logged-out/images/plan-personal.svg
+https://s1.wp.com/home.logged-out/images/plan-premium.svg
+https://s1.wp.com/home.logged-out/images/plan-business.svg
+https://s1.wp.com/home.logged-out/js/user-segments-plans.js?v=1475776896
+https://www.googleadservices.com/pagead/conversion.js
+https://static.criteo.net/js/ld/ld.js
+http://clients1.google.com/ocsp

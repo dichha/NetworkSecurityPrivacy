@@ -1,0 +1,2 @@
+http://www.sq.cn/favicon.ico#-moz-resolution=16,16
+http://www.sq.cn/favicon.ico

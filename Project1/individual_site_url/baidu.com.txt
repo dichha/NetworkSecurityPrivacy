@@ -1,0 +1,10 @@
+http://www.baidu.com/
+http://s1.bdstatic.com/r/www/cache/static/plugins/swfobject_c1c7185a.js
+http://s1.bdstatic.com/r/www/cache/static/soutu/js/tu_cfd9e720.js
+http://s1.bdstatic.com/r/www/cache/static/sug/js/bdsug_async_50f4eb41.js
+http://s1.bdstatic.com/r/www/cache/static/baiduia/baiduia_b45d552b.js
+http://s1.bdstatic.com/r/www/cache/static/soutu/css/soutu_bff2306f.css
+http://www.baidu.com/his?wd=&from=pc_web&rf=3&hisdata=&json=1&p=3&sid=20048_1445_21213_18240_17946_21102_18133_21190_21160_20780&req=2&csor=0&cb=jQuery110208339887974536901_1475871563108&_=1475871563109
+http://s1.bdstatic.com/r/www/cache/static/soutu/img/camera_new_679c15cc.png
+http://www.baidu.com/search/error.html
+http://www.baidu.com/img/baidu.svg#-moz-resolution=16,16

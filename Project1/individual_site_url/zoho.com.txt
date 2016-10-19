@@ -1,0 +1,14 @@
+https://www.zoho.com/
+http://ocsp.comodoca.com/
+https://www.zoho.com/lp/fonts/proxima-nova/stylesheet.css
+https://www.zoho.com/css/zoho-home-new.css
+https://iplocation.zoho.com/
+https://www.zoho.com/images/zoho-crmplus-bundle-icons.png
+https://www.zoho.com/images/zoho-mobile-apps-devices.png
+https://www.zoho.com/images/marketplace-logo.png
+https://www.zoho.com/images/firstdeal-thumbnail.jpg
+https://www.zoho.com/js/prd-common.js
+https://www.zoho.com/favicon.ico
+https://www.zoho.com/favicon.ico
+https://js.zohostatic.com/iam/m4004.30/accounts/js/tplibs/chosen.jquery.min.js
+https://js.zohostatic.com/iam/m4004.30/accounts/js/signup.min.js

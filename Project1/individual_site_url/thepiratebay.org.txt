@@ -1,0 +1,7 @@
+https://www.thepiratebay.org/
+https://www.thepiratebay.org/static/css/main.css
+https://www.thepiratebay.org/static/img/tpb.jpg
+https://www.thepiratebay.org/static/img/latest.png
+https://www.thepiratebay.org/favicon.ico
+https://www.thepiratebay.org/favicon.ico
+https://www.thepiratebay.org/favicon.ico#-moz-resolution=16,16

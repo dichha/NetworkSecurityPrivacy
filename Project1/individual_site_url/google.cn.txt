@@ -1,0 +1,4 @@
+http://www.google.cn/intl/zh-CN_cn/images/cn_icp.gif
+http://www.google.cn/favicon.ico
+http://www.google.cn/favicon.ico#-moz-resolution=16,16
+http://www.google.cn/favicon.ico

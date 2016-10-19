@@ -1,0 +1,5 @@
+http://mailchimp.com/assets/css/site-e9cbfb6f.css
+http://mailchimp.com/assets/scripts/init-e2856732.js
+http://mailchimp.com/assets/scripts/site-83fad112.js
+http://static.mailchimp.com/web/home/desktop.png
+http://ds-aksb-a.akamaihd.net/2/405175/b?dE=0&cS=0&cE=0&rqS=19&rsS=47&rsE=49&sS=&dl=49&di=450&fp=&dlS=462&dlE=463&dc=664&leS=664&leE=677&to=&ol=0&cr=7&mt=&mb=&b=16513&u=http%3A//mailchimp.com/&ua=Mozilla/5.0%20%28Windows%20NT%206.3%3B%20WOW64%3B%20rv%3A30.0%29%20Gecko/20100101%20Firefox/30.0&pl=Win32&us=UNKNOWN&gh=63.238.216.246&t=&rid=15854ce0&akM=x&akN=ae&vc=10:6&bpcip=81ffe000&akTX=1&akTI=15854ce0&ai=246331

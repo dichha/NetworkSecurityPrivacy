@@ -1,0 +1,21 @@
+1) create a json file for proj1_1_materials/fp_values.txt file. The 
+fp_values.txt file contains a dictionary of first-party domain and it's respective third-party 
+HTTP calls.The newly created json file will contain objects of first-party
+and its associated third-party values.
+	
+2) In the created new json file have objects with 'first_party' attribute to 
+'key' of the dictionary and 'third_party' attribute to 'values' of the 
+ dictionary.
+
+3) In D3's canvas load this json file. Create nodes for all 'first_party'
+attribute's values and 'third_party' attribute's values. In 'third_party'
+values do not make duplicate nodes if a node with the domain is created. 
+
+4) Using an object's 'third_party' attribute, create a link between a
+first-party domain and its associated third-party domains. 
+
+5) The D3's code will be similar to that of link given in description of 
+the project(https://bl.locks.org/mbostock/950642) however with modification
+needed due to the structure of the json objects. 
+
+

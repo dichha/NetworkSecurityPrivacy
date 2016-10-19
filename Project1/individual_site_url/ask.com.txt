@@ -1,0 +1,9 @@
+http://www.ask.com/st/c/css/ask_home.min.343c9b0a.css
+http://sp.ask.com/sh/i/images/homepage-sprite-1.0.2.png
+http://www.ask.com/st/c/js/ask_home.min.2c30daba.js
+http://sp.ask.com/sh/ads/ads.js
+http://www.ask.com/st/c/js/ask_unified.min.c7f61e55.js
+http://api-54-187-149-2.b2c.com/api/x.gif?iHBZTgXiTh8f5o7K$3$0$1$ZnJhbWVyYXRlJDU3ODIkMQ
+http://www.ask.com/favicon.ico
+http://www.ask.com/favicon.ico
+http://www.googletagmanager.com/gtm.js?id=GTM-T3KVMC

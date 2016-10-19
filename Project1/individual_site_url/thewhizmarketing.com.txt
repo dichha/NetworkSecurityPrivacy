@@ -1,0 +1,17 @@
+http://thewhizmarketing.com/styles/default/coming_soon.css
+http://www.thewhizmarketing.com/styles/default/coming_soon/logo.png
+http://thewhizmarketing.com/images/favicon.ico
+http://thewhizmarketing.com/images/favicon.ico
+http://thewhizmarketing.com/images/favicon.ico
+http://thewhizmarketing.com/images/favicon.ico
+http://www.google-analytics.com/ga.js
+https://www.google-analytics.com/ga.js
+http://www.thewhizmarketing.com/styles/default/coming_soon.css
+http://www.thewhizmarketing.com/images/favicon.ico
+http://www.thewhizmarketing.com/images/favicon.ico
+http://www.thewhizmarketing.com/images/favicon.ico
+http://www.thewhizmarketing.com/images/favicon.ico
+http://www.thewhizmarketing.com/styles/default/coming_soon/bg.jpg
+http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff
+http://thewhizmarketing.com/images/favicon.ico#-moz-resolution=16,16
+http://www.thewhizmarketing.com/images/favicon.ico#-moz-resolution=16,16

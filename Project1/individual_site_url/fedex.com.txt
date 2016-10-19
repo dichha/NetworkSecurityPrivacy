@@ -1,0 +1,13 @@
+http://www.fedex.com/images/static/v1/globe.gif
+http://www.fedex.com/templates/components/apps/contentim/contentim-min.json?cb=1475874353&refresh_uri=%2F%2F
+http://images.fedex.com/templates/components/apps/contentim/scripts/mbox.49.1680.07312015.02-min.js
+http://images.fedex.com/templates/components/apps/contentim/scripts/s_code.3.0.27.09132016.03-min.js
+http://images.fedex.com/templates/components/apps/contentim/scripts/im-manifest.1810.09302016.02-min.js
+http://images.fedex.com/templates/components/apps/contentim/scripts/im.1810.09152016.08-min.js
+http://dpm.demdex.net/id?d_visid_ver=1.6.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=1E22171B520E93BF0A490D44%40AdobeOrg&d_nsid=0&ts=1475874353451
+http://fls.doubleclick.net/json?spot=4191263&src=&var=s_5_Integrate_DFA_get_0&host=integrate.112.2o7.net%2Fdfa_echo%3Fvar%3Ds_5_Integrate_DFA_get_0%26AQE%3D1%26A2S%3D1&ord=5127095140840
+http://www.fedex.com/images/static/v1/logo.gif
+http://www.fedex.com/favicon.ico
+http://www.fedex.com/favicon.ico#-moz-resolution=16,16
+http://www.fedex.com/favicon.ico
+http://metrics.fedex.com/id?d_visid_ver=1.6.0&d_fieldgroup=A&mcorgid=1E22171B520E93BF0A490D44%40AdobeOrg&mid=57507561395182008734046740397696352168&ts=1475874353816

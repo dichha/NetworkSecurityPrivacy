@@ -1,0 +1,8 @@
+http://www.adexc.net/fonts/caviardreams-webfont.woff
+http://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGFkQc6VGVFSmCnC_l7QZG60.woff
+http://www.adexc.net/fonts/brankic1979.woff
+http://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGJ6-ys_j0H4QL65VLqzI3wI.woff
+http://www.adexc.net/layerslider/skins/fullwidth/skin.css
+http://www.adexc.net/favicon.ico
+http://www.adexc.net/favicon.ico#-moz-resolution=16,16
+http://www.adexc.net/favicon.ico

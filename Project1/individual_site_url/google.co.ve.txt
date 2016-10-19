@@ -1,0 +1,6 @@
+https://www.google.co.ve/?gws_rd=ssl
+http://clients1.google.com/ocsp
+https://www.google.co.ve/images/nav_logo242.png
+https://www.google.co.ve/images/branding/product/ico/googleg_lodp.ico
+https://www.google.co.ve/images/branding/product/ico/googleg_lodp.ico
+http://top.51.la/images/highcharts/jquery/jquery-1.10.2.min.js

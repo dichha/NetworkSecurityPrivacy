@@ -1,0 +1,8 @@
+http://clients1.google.com/ocsp
+https://www.google.com.sa/images/nav_logo242.png
+https://www.google.com.sa/images/branding/product/ico/googleg_lodp.ico
+https://www.google.com.sa/images/branding/product/ico/googleg_lodp.ico
+https://www.google.com.sa/xjs/_/js/k=xjs.s.ar.SKRbZ17GcME.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=AIGSJEAB4v8hINxCsCARYGAQ/rt=j/d=1/t=zcms/rs=ACT90oHkvGj7YC-Pwbxfd53f_rSEnQaKmA
+https://www.google.com.sa/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+https://www.gstatic.com/og/_/js/k=og.og2.en_US.FmFN8wh_cXY.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTu_EYZlbvQhiIp7k2ginJ2Q5mlCCw
+http://www.bbc.com/favicon.ico

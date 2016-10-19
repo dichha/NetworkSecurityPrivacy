@@ -1,0 +1,4 @@
+daum.net  = ['www.daum.net', 'ad.daum.net']
+icicibank.com  = ['www.icicibank.com']
+sh.st  = ['shorte.st']
+rambler.ru  = ['1dmp.io', 'smi2.ru', 'nnn.ru', 'net.finam.ru', 'rubiconproject.com', 'pixel.rubiconproject.com', 'rutarget.ru', 'adsniper.ru', 'rtb.com.ru', 'bid.run', 'demdex.net', 'dpm.demdex.net', 'adsymptotic.com', 'bumlam.com', 'an.yandex.ru', 'bluekai.com', 'tidaltv.com', 'exelator.com', 'dmg.digitaltarget.ru']

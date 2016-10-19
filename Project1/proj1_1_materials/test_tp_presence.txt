@@ -1,0 +1,10 @@
+clients1.google.com = 37
+s.ytimg.com = 10
+fonts.gstatic.com = 30
+apis.google.com = 11
+ocsp.digicert.com = 44
+static.xx.fbcdn.net = 19
+scontent-ort2-1.xx.fbcdn.net = 11
+staticxx.facebook.com = 4
+googleads.g.doubleclick.net = 45
+www.google.com = 72

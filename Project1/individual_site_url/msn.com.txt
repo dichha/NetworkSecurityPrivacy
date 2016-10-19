@@ -1,0 +1,17 @@
+http://static-hp-eus-s-msn-com.akamaized.net/en-us/homepage/_sc/css/156dea5a-a8dec9ac/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/24-2e3508-3b095ef9/ca-6d4dbc-91507f8b/11-c1aa5e-68ddb2ab/b4-3d41fa-4da0aefe/92-4c5daa-36306341/1a-2c0058-a0a9be16/c2-035181-4c17860d/23-0b80c6-67b4a92b/40-86af4e-d55835e5/3d-010fa3-1c1809bb/72-3f1673-dbc6220a/9a-d35cc3-81f73274/1b-25476b-5f5edd0e/aa-0f6b21-e6ef31e5/41-022455-3d54e7d0/3a-65cd17-8efab0a0/9f-bff60d-87c69f5d/1e-6d2b7b-95116db8/ae-b52874-e92f4bc3/4e-c2ba3f-54b0dfff/finance-css-e1-9b1a1f6f2e4be7f0f33748a6957e77-c79597c5/finance-css-9c-dcd8c6d705e5c478ee6ca458d61f87-ac6f227b/ec-0ce651-f3e5ee16/d3-806244-b0fab04f/d1-23fa1e-4b5f58d3/da-e8f214-de6c1a3c?ver=2.0.6120.696&fdhead=muidflt48cf,enablebingadus,linkpixel&csopd=20161005190712&csopdb=20161006200218
+http://o.aolcdn.com/ads/adswrappermsni.js
+http://static-hp-eus-s-msn-com.akamaized.net/_h/975a7d20/webcore/externalscripts/jquery/jquery-2.1.1.min.js
+http://static-hp-eus-s-msn-com.akamaized.net/en-us/homepage/_sc/js/156dea5a-963b4fec/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/1c-f26536-411d6c90/71-e834c4-141314bb/32-bce810-5599dabd/d6-e7c92e-e76dbcc3/9c-6ac4a0-68ddb2ab/db-906095-68ddb2ab/49-f7c773-68ddb2ab/b2-a94d70-d1f8fb43/b2-5fb34a-2d42c1d/finance-js-ee-4c83d064eeff1c1c012f0a53288e0e-e5780970/c4-0bcaf9-3e76eb4d/68-508d91-69add1ed/bf-3c93cc-86e27032?ver=2.0.6120.696&fdhead=muidflt48cf,enablebingadus,linkpixel&csopd=20161005190712&csopdb=20161006200218
+http://static-hp-eus-s-msn-com.akamaized.net/sc/9b/e151e5.gif
+http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBx8YMy.img?h=368&w=522&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1715&y=1411
+http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MIiC.img?m=6&o=true&u=true&n=true&w=40&h=40
+http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MKSg.img?m=6&o=true&u=true&n=true&w=40&h=40
+http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBunRgT.img?h=22&w=96&m=6&q=60&u=t&o=t&l=f&f=jpg
+http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAhP8FR.img?h=22&w=96&m=6&q=60&u=t&o=t&l=f&f=jpg
+http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBuwz36.img?h=22&w=96&m=6&q=60&u=t&o=t&l=f&f=jpg
+http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBuZve4.img?h=22&w=96&m=6&q=60&u=t&o=t&l=f&f=jpg
+http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBunXXl.img?h=22&w=96&m=6&q=60&u=t&o=t&l=f&f=jpg
+http://static-hp-eus-s-msn-com.akamaized.net/_h/7fed7cf6/webcore/fonts/SegoeUI/WestEuropean/Segoe-UI.woff
+http://static-hp-eus-s-msn-com.akamaized.net/sc/4e/f3be46.woff
+http://static-hp-eus-s-msn-com.akamaized.net/sc/2b/a5ea21.ico
+http://static-hp-eus-s-msn-com.akamaized.net/sc/2b/a5ea21.ico

@@ -1,0 +1,5 @@
+http://clients1.google.com/ocsp
+https://www.google.ru/images/nav_logo242.png
+https://www.google.ru/images/branding/product/ico/googleg_lodp.ico
+https://www.google.ru/images/branding/product/ico/googleg_lodp.ico
+https://www.google.ru/xjs/_/js/k=xjs.s.ru.Kxx9MfY7j1w.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,j,p,d,csi/am=AIGSJEAB4v8hINxCsCAVYGAQ/rt=j/d=1/t=zcms/rs=ACT90oFR-kTRgEzjtcI3E71u_gCUfpt8jQ

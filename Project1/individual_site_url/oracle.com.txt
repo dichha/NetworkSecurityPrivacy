@@ -1,0 +1,5 @@
+https://www.oracle.com/favicon.ico#-moz-resolution=16,16
+https://www.oracle.com/favicon.ico
+http://www.oracle.com/favicon.ico
+http://www.oracle.com/favicon.ico#-moz-resolution=16,16
+http://www.oracle.com/favicon.ico

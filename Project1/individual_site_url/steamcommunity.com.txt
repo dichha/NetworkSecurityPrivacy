@@ -1,0 +1,13 @@
+http://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/text_fade.png?v=1
+http://steamcommunity-a.akamaihd.net/public/shared/images/news/img_rockpapershotgun.gif
+http://steamcommunity-a.akamaihd.net/public/shared/images/comment_quoteicon.png
+http://steamcommunity-a.akamaihd.net/public/shared/images/news/img_pcgamer.gif
+http://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/icons/icon_rate.png
+http://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/item_type_hover.png?v=1
+http://steamcommunity-a.akamaihd.net/public/shared/images/buttons/icons_16.png?v=5
+http://steamcommunity-a.akamaihd.net/public/shared/images/news/img_steam.gif
+http://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/4-star.png
+http://steamcommunity-a.akamaihd.net/public/shared/images/iconholder_inactive.png
+http://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/3-star.png
+http://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/not-yet.png
+http://steamcommunity-a.akamaihd.net/public/shared/fonts/MotivaSans-Bold.ttf

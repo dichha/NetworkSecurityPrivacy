@@ -1,0 +1,15 @@
+http://mailchimp.com/assets/css/site-e9cbfb6f.css
+http://mailchimp.com/assets/scripts/init-e2856732.js
+http://mailchimp.com/assets/scripts/site-83fad112.js
+http://static.mailchimp.com/web/touch-icon-192x192.png
+http://static.mailchimp.com/web/favicon.ico
+http://static.mailchimp.com/web/favicon.ico
+http://www.google-analytics.com/analytics.js
+http://static.mailchimp.com/web/touch-icon-192x192.png
+http://static.mailchimp.com/web/assets/fonts/open-sans/opensans-regular-webfont.woff
+http://www.googletagmanager.com/gtm.js?id=GTM-MCZTKL
+https://www.google-analytics.com/analytics.js
+http://mailchimp.com/assets/images/freddie-719ecb5b.svg
+http://mailchimp.com/assets/images/logo-dark-6af72327.svg
+http://static.mailchimp.com/web/assets/fonts/open-sans/opensans-italic-webfont.woff
+http://mailchimp.com/assets/fonts/freddicons-6f458194.woff

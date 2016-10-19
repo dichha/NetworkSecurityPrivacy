@@ -1,0 +1,4 @@
+http://drop.ndtv.com/common/images/homepage_sprite.png
+https://platform.twitter.com/js/button.c9025956238e7d486d74379e14f50282.js
+https://static.xx.fbcdn.net/rsrc.php/v3iSgH4/yZ/l/en_US/wtes4wz0LFb.js
+http://nr.taboola.com/newsroom/1.0/ndtv/report-page-structure?page.url=http%3A%2F%2Fwww.ndtv.com%2F&view.id=109415418785544873&page.template=news-home&page.dashboard=news-home&ui=a2b97738-6f0a-4a7f-8db2-f063869a3615

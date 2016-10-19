@@ -1,0 +1,15 @@
+http://i.dell.com/sites/imagecontent/app-merchandizing/responsive/HomePage/en/PublishingImages/coldplasmatech-720x245.jpg
+http://i.dell.com/sites/imagecontent/app-merchandizing/responsive/HomePage/assets/en/PublishingImages/contentTeaser1.jpg
+http://i.dell.com/sites/imagecontent/app-merchandizing/responsive/HomePage/en/PublishingImages/dell-legacy-of-good-update-v2-352x245.jpg
+http://i.dell.com/sites/imagecontent/app-merchandizing/responsive/HomePage/en/PublishingImages/22780-home-tv-samsung-un32j4000-laptop-xps-13-9350-desktop-inspiron-3650-352x245-en.jpg
+http://i.dell.com/sites/imagecontent/app-merchandizing/responsive/HomePage/en/PublishingImages/fy17q2-cloud-mobile-banner-tei-v2-352x245.jpg
+http://i.dell.com/sites/imagecontent/app-merchandizing/responsive/HomePage/en/PublishingImages/23016-home-laptop-inspiron-14-3452-desktop-3656-monitor-dell-s2216h-1400x472.jpg
+http://mathid.mathtag.com/d/i.js
+http://nexus.ensighten.com/dell/stpfooter/serverComponent.php?r=8151887003.375971&ClientID=123&PageID=http%3A%2F%2Fwww.dell.com%2Fen-us%2F%3Fcountry%3Dus%26language%3Den%26segment%3Dgen%26cset%3D19%26cms%3Dstp-datalayer
+http://nexus.ensighten.com/dell/stpfooter/code/0b2d245bd98ecd6e45134197927ff4ea.js?conditionId0=421951
+http://nexus.ensighten.com/dell/stpfooter/code/964312ef49bbd5380c750799684ecea7.js?conditionId0=461915
+http://nexus.ensighten.com/dell/stpfooter/code/136d87a34a8dc911b707bf7a319b61ea.js?conditionId0=373649
+http://nexus.ensighten.com/dell/stpfooter/code/63979518b3bb0696361b156fddd5c499.js?conditionId0=360391
+http://nexus.ensighten.com/dell/stpfooter/code/964312ef49bbd5380c750799684ecea7.js?conditionId0=321138
+http://pixel.mathtag.com/u/js?callback=MathID.Callbacks.t1&cid_api_key=vgzxvhhsvphuw8dvddnsdqz4&cid_api_domain=www.dell.com
+http://tags.bluekai.com/site/17352?ret=js

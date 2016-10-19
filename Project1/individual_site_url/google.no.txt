@@ -1,0 +1,5 @@
+http://clients1.google.com/ocsp
+https://www.google.no/images/nav_logo242.png
+https://consent.google.com/status?continue=https://www.google.no&pc=s&timestamp=1475873470
+https://www.google.no/images/branding/product/ico/googleg_lodp.ico
+https://www.google.no/images/branding/product/ico/googleg_lodp.ico

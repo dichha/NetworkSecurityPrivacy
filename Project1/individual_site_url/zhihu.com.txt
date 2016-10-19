@@ -1,0 +1,4 @@
+http://static.zhihu.com/static/favicon.ico
+http://ocsp.digicert.com/
+http://static.zhihu.com/static/revved/img/index/logo.6837e927.png
+http://static.zhihu.com/static/favicon.ico#-moz-resolution=16,16

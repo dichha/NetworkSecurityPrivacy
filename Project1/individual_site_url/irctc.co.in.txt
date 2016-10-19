@@ -1,0 +1,12 @@
+https://www.irctc.co.in/eticketing/loginHome.jsf
+http://gm.symcd.com/
+https://www.irctc.co.in/eticketing/javax.faces.resource/jsf.js.jsf?ln=javax.faces
+https://www.irctc.co.in/eticketing/resources/images/bluest.gif
+https://www.irctc.co.in/eticketing/resources/images/launch_icon_en_IN.png
+https://www.irctc.co.in/eticketing/org.richfaces.resources/javax.faces.resource/org.richfaces.staticResource/4.2.3.Final/PackedCompressed/blueSky/org.richfaces.images/buttonBackgroundImage.png
+https://www.irctc.co.in/eticketing/org.richfaces.resources/javax.faces.resource/org.richfaces.staticResource/4.2.3.Final/PackedCompressed/blueSky/org.richfaces.images/gradientA.png
+https://www.irctc.co.in/eticketing/org.richfaces.resources/javax.faces.resource/org.richfaces.staticResource/4.2.3.Final/PackedCompressed/blueSky/org.richfaces.images/inputBackgroundImage.png
+https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=1042930961256555&output=json_html&callback=callbackProxy&impl=fifs&json_a=1&eid=108809080%2C108809111%2C108809134%2C108809145%2C108809136%2C108809149&sc=1&sfv=1-0-4&iu_parts=37179215%2CDFP_NGET_01_HomePage_RHS_ATF_479x266_ENG%2CNGET_02_HomePage_LHS_BTF_300x250%2CDFP_NGET_01_HomePage_RHS_ATF_478x258_Hindi%2CNGET_HND_02_HomePage_LHS_BTF_300x250%2C182691292%2CNGET_01_HOME_PAGE_CENTER_BIG_BANNER%2CNGET_02_HOME_PAGE_LEFT_UPPER%2CNGET_03_HOME_PAGE_BOTTOM&enc_prev_ius=%2F0%2F1%2C%2F0%2F2%2C%2F0%2F3%2C%2F0%2F4%2C%2F5%2F6%2C%2F5%2F7%2C%2F5%2F8&prev_iu_szs=479x266%2C300x250%2C478x258%2C300x250%2C970x250%2C300x250%2C970x90&cookie_enabled=1&lmt=1475873960&dt=1475873963704&cc=87&frm=20&biw=993&bih=452&oid=3&adks=3920509152%2C2516714594%2C1331482137%2C2309720723%2C3188080218%2C380802511%2C537422201&gut=v2&ifi=1&u_tz=-300&u_his=50&u_java=true&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=10&u_nmime=100&u_sd=1&flash=0&url=https%3A%2F%2Fwww.irctc.co.in%2Feticketing%2FloginHome.jsf&dssz=17&icsg=36095&std=4&csl=98&vrg=95&vrp=95&ga_vid=689833287.1475873961&ga_sid=1475873964&ga_hid=484526155
+https://www.irctc.co.in/favicon.ico
+https://www.irctc.co.in/favicon.ico#-moz-resolution=16,16
+https://www.irctc.co.in/favicon.ico

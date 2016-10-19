@@ -1,0 +1,15 @@
+https://www.shopify.com/
+http://ocsp.globalsign.com/rootr2
+https://bam.nr-data.net/jserrors/1/32a39e099b?a=6049247&sa=1&pl=1475873891885&v=476.c73f3a6&t=Unnamed%20Transaction&xhr=%5B%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22personalization.bloomberg.com:443%22,%22pathname%22:%22/user/info%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:230%7D,%22rxSize%22:%7B%22t%22:130%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:3462%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22nav.bloomberg.com:443%22,%22pathname%22:%22/video/miniplayer/bundle%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:381%7D,%22rxSize%22:%7B%22t%22:405%7D,%22cbTime%22:%7B%22t%22:1%7D,%22time%22:%7B%22t%22:4641%7D%7D%7D%5D
+https://cdn.shopify.com/assets2/application-2067091d15fa179042ebd24efd935885b769487b2d63597dc1c605dab52f44a6.css
+https://cdn.shopify.com/assets2/manifests/homepage-97cf546d21fa74b9a5b05bde1b6b4c3898a4621f861a375329682d16f8eacc5a.css
+https://cdn.shopify.com/assets2/application-1829f6f74eb5dc3e6c63a72e854e8e0126242453cb31c991ddae5d6d42ed8d06.js
+https://cdn.shopify.com/assets2/manifests/homepage-f075bf6a901db78835fab7a7b070f3d6e50d439b5270d01e53cc056e209f5263.js
+https://sp.analytics.yahoo.com/spp.pl?a=1000917474451&.yp=423761
+https://bat.bing.com/action/0?ti=5038399&Ver=2
+https://cdn.shopify.com/shopify-marketing_assets/static/shopify-favicon.png
+http://gn.symcd.com/
+https://cdn.shopify.com/shopify-marketing_assets/static/shopify-favicon.png
+https://js-agent.newrelic.com/nr-974.min.js
+https://cdn.shopify.com/shopify-marketing_assets/static/shopify-favicon.png#-moz-resolution=16,16
+https://bam.nr-data.net/1/fa45dcf839?a=3278270&v=974.7d740e1&to=dl8KQUReDl4AEE1aXlhVS1xYVQdK&rst=4586&ref=https://www.shopify.com/&ap=11&be=476&fe=3919&dc=2557&perf=%7B%22timing%22:%7B%22of%22:1475873899218,%22n%22:0,%22f%22:200,%22dn%22:200,%22dne%22:200,%22c%22:200,%22ce%22:200,%22rq%22:317,%22rp%22:358,%22rpe%22:387,%22dl%22:365,%22di%22:3026,%22ds%22:3028,%22de%22:3131,%22dc%22:4391,%22l%22:4391,%22le%22:4393%7D,%22navigation%22:%7B%7D%7D&jsonp=NREUM.setToken

@@ -1,0 +1,16 @@
+http://img3.targetimg3.com/wcsstore/marketing/com/uimod/194-10052016-01/css/patlab/global.css
+http://img3.targetimg3.com/wcsstore/marketing/com/uimod/194-10052016-01/js/plugins.mod.js
+http://img3.targetimg3.com/wcsstore/marketing/com/uimod/194-10052016-01/js/home.mod.js
+http://nexus.ensighten.com/target/tcom-ui-prod/Bootstrap.js
+http://www.target.com/__ssobj/static/setCampaignTaggingSS.js
+http://www.target.com/__ssobj/core.js
+http://static.targetimg1.com/ss-sdk-libs/adaptive_v5.min.js
+http://www.target.com/__ssobj/ard.png?6338830249828082931_1-163-1475873927&n=1
+https://targetdfp320149284940.s.moatpixel.com/pixel.gif?m=1&iv=0&tuv=-1&tet=0&fi=0&apd=0&ui=0&uit=0&h=0&th=-1&s=0&ts=-1&bfa=-1&d=target.com&L1id=14465366&L2id=360648566&L3id=45894806&L4id=102820405766&S1id=6079166&S2id=107197886&ord=1475873933378&r=991002591261&t=meas&UserID=&q=1
+http://pixel.mathtag.com/misc/img?mm_bnc&bcdv=0
+http://servedby.flashtalking.com/spot/4/4675;26666;3211/?spotName=Shopper&U1=&U2=home%20page&U3=&cachebuster=675258.7894415824
+http://fdz.flashtalking.com/services/target/FBI455_retargeting/segment.php?a=v&category=home%20page
+https://img1-secure.targetimg1.com/wcsstore/marketing/com/mobile/images/template/favicon-16x16.png#-moz-resolution=16,16
+http://3409119b.mpstat.us/?h.d=target.com&h.key=KQTS5-4NBTD-EYGLE-64UYR-S5892&h.t=1475873931480&mob.ct=&mob.bw=Infinity&mob.mt=false&c.o=&spa.missed=1&rt.blstart=1475873930890&cdim.Environment=prod&cdim.Build_Number=194-10052016-01&t_configjs=625&t_configfb=610&v=1.376.1462309808&rt.si=27930c21-eb2e-47c2-93b7-1569cbcb9703-oep3m1&vis.st=hidden&ua.plt=Win32&ua.vnd=&if=&scr.xy=1366x768&scr.bpp=24%2F24&bat.lvl=1&dom.ln=1168&dom.sz=171350&dom.img=52&dom.img.ext=27&dom.script=40&dom.script.ext=24&cdim.NullSearch=false&h.pg=mHome&rt.tstart=1475873928900&rt.bstart=1475873932598&rt.end=1475873934353&t_done=5453&t_other=custom2%7C707%2Ccustom8%7C902&r=&rt.tt=3845&rt.obo=0&rt.sh=1475873932747%3D1%3A0%3A3845&rt.quit=&rt.ntvu=&nt_red_cnt=0&nt_nav_type=0&nt_nav_st=1475873928900&nt_red_st=0&nt_red_end=0&nt_fet_st=1475873928905&nt_dns_st=1475873928905&nt_dns_end=1475873928905&nt_con_st=1475873928905&nt_con_end=1475873928905&nt_req_st=1475873928930&nt_res_st=1475873929103&nt_res_end=1475873929106&nt_domloading=1475873929121&nt_domint=1475873931453&nt_domcontloaded_st=1475873931454&nt_domcontloaded_end=1475873931540&nt_domcomp=1475873934235&nt_load_st=1475873934235&nt_load_end=1475873934237&nt_unload_st=0&nt_unload_end=0&u=http%3A%2F%2Fwww.target.com%2F&rt.ss=1475873928900&rt.sl=1&h.cr=538b30327c4f85a18b32f3ea8d33bde5678bff4e
+https://targetdfp320149284940.s.moatpixel.com/pixel.gif?m=1&iv=0&tuv=-1&tet=0&fi=0&apd=0&ui=0&uit=0&h=0&th=-1&s=0&ts=-1&bfa=-1&d=target.com&L1id=15866846&L2id=360432806&L3id=45547886&L4id=101209186406&S1id=6079166&S2id=107197886&ord=1475873933635&r=278737595266&t=unload&UserID=&q=2
+https://targetdfp320149284940.s.moatpixel.com/pixel.gif?m=1&iv=0&tuv=-1&tet=0&fi=0&apd=0&ui=0&uit=0&h=0&th=-1&s=0&ts=-1&bfa=-1&d=target.com&L1id=14465366&L2id=360648566&L3id=45894806&L4id=102820405766&S1id=6079166&S2id=107197886&ord=1475873933378&r=991002591261&t=unload&UserID=&q=2

@@ -1,0 +1,16 @@
+http://ocsp.godaddy.com/
+https://www.udemy.com/staticx/udemy/images/favicon.ico
+https://305025425.log.optimizely.com/event?a=305025425&d=305025425&y=false&src=js&s306155008=direct&s306161004=false&s7473112303=none&s306102099=ff&tsent=1475874259.824&n=https%3A%2F%2Fwww.udemy.com%2F&u=oeu1475874259806r0.405039991207215&wxhr=true&time=1475874259.824&f=6516190466,7574740982&g=&cx2=b977d677
+https://udemy-images.udemy.com/homepage-promo/topic-bg-python.jpg
+https://udemy-images.udemy.com/homepage-promo/topic-i-python.png
+https://udemy-images.udemy.com/homepage-promo/topic-bg-java.jpg
+https://udemy-images.udemy.com/homepage-promo/topic-i-java.png
+https://udemy-images.udemy.com/homepage-promo/topic-bg-excel.jpg
+https://udemy-images.udemy.com/homepage-promo/topic-i-excel.png
+https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSha1RVmPjeKy21_GQJaLlJI.woff
+https://fonts.gstatic.com/s/opensans/v13/u-WUoqrET9fUeobQW7jkRT8E0i7KZn-EPnyo3HZu7kw.woff
+https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTRa1RVmPjeKy21_GQJaLlJI.woff
+https://www.udemy.com/staticx/udemy/js/webpack/fontawesome-webfont.d9ee23d59d0e0e727b51368b458a0bff.woff
+https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzBa1RVmPjeKy21_GQJaLlJI.woff
+https://js.intercomcdn.com/frame.898ce9bf.js
+https://api-iam.intercom.io/ping

@@ -1,0 +1,7 @@
+geo.query.yahoo.com
+clients1.google.com
+s.ytimg.com
+sb.scorecardresearch.com
+geo.yahoo.com
+csync.flickr.com
+staticxx.facebook.com

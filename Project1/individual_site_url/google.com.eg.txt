@@ -1,0 +1,13 @@
+https://www.google.com.eg/?gws_rd=ssl
+http://clients1.google.com/ocsp
+https://www.google.com.eg/images/nav_logo242.png
+https://www.google.com.eg/images/branding/product/ico/googleg_lodp.ico
+https://www.google.com.eg/images/branding/product/ico/googleg_lodp.ico
+https://www.google.com.eg/xjs/_/js/k=xjs.s.ar.SKRbZ17GcME.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,j,d,csi/am=AIGSJEAB4v8hINxCsCAVYGAQ/rt=j/d=1/t=zcms/rs=ACT90oHbK07vXXLhTF4S61_hwiv43DqpiQ
+https://www.google.com.eg/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+https://www.gstatic.com/inputtools/images/tia.png
+https://www.google.com.eg/xjs/_/js/k=xjs.s.ar.SKRbZ17GcME.O/m=sy39,sy49,em2,em1,sy51,em0,sy306,aa,abd,sy75,sy74,sy73,sy76,em14,async,sy78,foot,fpe,idck,ipv6,sy120,sy166,lu,m,sf,ssb,vm/am=AIGSJEAB4v8hINxCsCAVYGAQ/rt=j/d=0/t=zcms/rs=ACT90oHbK07vXXLhTF4S61_hwiv43DqpiQ
+https://www.google.com.eg/gen_204?v=3&s=webhp&atyp=csi&ei=EAX4V9zaG5TmjwSP5JLYAw&imc=2&imn=2&imp=1&adh=&xjs=init.44.19.sb.37.foot.2.jsa.1.async.1.fpe.1&ima=0&rt=xjsls.604,xjses.722,xjsee.800,xjs.800,prt.808,iml.1109,dcl.1064,jraids.1064,jraide.1070,ol.1111,aft.808,wsrt.354,cst.0,dnst.0,rqst.101,rspt.18,rqstt.122,unt.73,cstt.73,dit.1408
+https://www.google.com.eg/images/branding/product/ico/googleg_lodp.ico#-moz-resolution=16,16
+https://www.gstatic.com/og/_/js/k=og.og2.en_US.FmFN8wh_cXY.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTu_EYZlbvQhiIp7k2ginJ2Q5mlCCw
+https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.I_ZVJb_pzks.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo8NNXa6ND5OamMO-moF9Aq-DewphA/cb=gapi.loaded_0

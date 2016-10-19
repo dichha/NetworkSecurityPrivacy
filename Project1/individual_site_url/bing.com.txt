@@ -1,0 +1,16 @@
+http://www.bing.com/sa/simg/bing_p_rr_teal_min.ico
+http://www.bing.com/fd/s/a/hp/bing.svg
+http://www.bing.com/sa/simg/bing_p_rr_teal_min.ico
+http://www.bing.com/s/a/hpc18.png
+http://www.bing.com/sa/simg/bing_p_rr_teal_min.ico#-moz-resolution=16,16
+http://www.bing.com/fd/ls/lsp.aspx?
+http://www.bing.com/rms/BingCore.Bundle/jc,nj/1f83a7b4/8665a969.js?bu=rms+answers+Shared+BingCore%24ClientInstV2%24DuplicateXlsDefaultConfig%2cBingCore%24ClientInstV2%24SharedLocalStorageConfigDefault%2cBingCore%24shared%2cBingCore%24env.override%2cEmpty%2cBingCore%24event.custom.fix%2cBingCore%24event.native%2cBingCore%24onHTML%2cBingCore%24dom%2cBingCore%24cookies%2cBingCore%24rmsajax%2cBingCore%24ClientInstV2%24LogUploadCapFeatureDisabled%2cBingCore%24ClientInstV2%24ClientInstConfigSeparateOfflineQueue%2cBingCore%24clientinst%2cBingCore%24replay%2cBingCore%24Animation%2cBingCore%24fadeAnimation%2cBingCore%24framework
+http://www.bing.com/rms/rms%20answers%20Identity%20Blue$BlueIdentityDropdownBootStrapMSA/jc,nj/6da534ee/89faaefc.js
+http://www.bing.com/rms/rms%20answers%20Identity%20Blue$BlueIdentityHeaderMSA/jc,nj/f4eba60e/6ed5790e.js
+http://www.bing.com/rms/rms%20answers%20Identity%20SnrWindowsLiveConnectBootstrapMSA/jc,nj/465ea9c9/230aca21.js
+http://www.bing.com/rms/rms%20answers%20Rewards%20RewardsNcHeaderBootstrapAjax/jc,nj/20ed1c25/b5d3d123.js
+http://www.bing.com/rms/rms%20answers%20Rewards%20ReportActivityBootstrap/jc,nj/5d440020/4a4ee9e1.js
+http://www.bing.com/rms/Framework/jc,nj/53d77d5b/b5241a11.js?bu=rms+answers+BoxModel+config.instant%2ccore%2ccore%24viewport%2ccore%24layout%2ccore%24metrics%2cmodules%24mutation%2cmodules%24error%2cmodules%24network%2cmodules%24cursor%2cmodules%24keyboard%2cmodules%24bot
+http://www.bing.com/rms/rms%20answers%20Identity%20Blue$BlueIdentityDropdownBootStrapMSA/jc,nj/6da534ee/89faaefc.js
+http://www.bing.com/rms/rms%20answers%20Identity%20Blue$BlueIdentityHeaderMSA/jc,nj/f4eba60e/6ed5790e.js
+http://www.bing.com/rms/rms%20answers%20Identity%20SnrWindowsLiveConnectBootstrapMSA/jc,nj/465ea9c9/230aca21.js

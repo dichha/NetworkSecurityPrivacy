@@ -1,0 +1,17 @@
+https://www.amazon.ca/
+http://tps10215.doubleverify.com/event.jpg?ctx=2821932&cmp=11042211253987&ipos=&sid=11182200774637&plc=11042211254441&adid=&crt=11042211272956&btreg=11042211254441&btadsrv=atdmt&adsrv=2&advid=11042201430398&num=&pid=&crtname=&unit=&chnl=&uid=1475875230672845&scusrid=&tagtype=&sr=&dt=&isdvvid=&dup=&app=&sup=&dvtagver=6.1.src&srcurlD=0&curl=&qpgid=&ssl=0&refD=0&htmlmsging=1&aadid=7428ec439efd1166a54545f8c655919f9e1e92a4&chro=0&hist=50&winh=452&winw=1010&wouh=28&wouw=160&scah=728&scaw=1366&aUrlD=&vavbkt=-4,-8,-6,-1,-23&lvvn=13&jsver=624&eparams=DC4FC%3Dl9EEATbpTauTauHHH%5D%3C%40%40%40C2%5D4%40%3ETauU2%26C%3Dl&brid=2&brver=30&bridua=2&tstype=1&jsCallback=dvCallback_1475875230694560&TKH=7397730417344045725&impid=7c28e571581f4b1f943746e077aa4642&strp=0&adbtftopg=true&adwdth=300&adhgt=600&isbxdms=4117&b0=2066&dvp_numts=2&dvp_maxts=1195&dvp_mints=771&dvp_avgts=983&evid=8&ctime=1475875235094
+https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUI-9179b036d48fc9bab138ef5ef00cf14bd4516afd._V2_.css#AUIClients/AmazonUI.no_jquery.rendering_engine-not-trident.secure-true.min
+https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonGatewayAuiAssets-9e0fecb563754edaafe8162f6f56602bc510b0fc._V2_.css#AUIClients/AmazonGatewayAuiAssets.secure.min
+https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB295619449_.png
+https://fls-na.amazon.com/1/batch/1/OP/A2EUQ1WTGCTBG2:151-5210396-9369345:9W7JVEPP8Q4A2TWA0W70$uedata=s:%2Fgp%2Fuedata%3Fstaticb%26id%3D9W7JVEPP8Q4A2TWA0W70:0
+https://m.media-amazon.com/images/G/15/x-locale/common/transparent-pixel._CB386942483_.gif
+https://images-na.ssl-images-amazon.com/images/G/15/kindle/dp/2014/KI/KV-GW-1-1500x300._CB297039058_.jpg
+https://m.media-amazon.com/images/G/15/gateway/yiyiz/Electronics._CB278107767_.png
+https://m.media-amazon.com/images/G/15/gateway/yiyiz/Fashion._CB278107761_.png
+https://m.media-amazon.com/images/G/15/gateway/yiyiz/Games._CB278107761_.png
+https://m.media-amazon.com/images/G/15/gateway/yiyiz/Home_kitchen._CB278107766_.png
+https://m.media-amazon.com/images/G/15/AMAZON-FASHION/2016/FASHION/FLIP/SEPTEMBER/GW/SLIM_1279X984._UX328_SX328_CB277288459_.jpg
+https://m.media-amazon.com/images/G/15/gateway/DOTD_short._CB278128309_.png
+http://tps10215.doubleverify.com/event.gif?impid=7c28e571581f4b1f943746e077aa4642&mxs=0&avs=0&tdis=0&dvp_mtec=1&dvp_mtco=3&cbust=1475875236679481
+https://fls-na.amazon.com/1/batch/1/OP/A2EUQ1WTGCTBG2:151-5210396-9369345:9W7JVEPP8Q4A2TWA0W70$uedata=s:%2Fgp%2Fuedata%3Ful%26v%3D0.528.122%26id%3D9W7JVEPP8Q4A2TWA0W70%26m%3D1%26sc%3D9W7JVEPP8Q4A2TWA0W70%26ue%3D253%26bb%3D1366%26pc%3D1394%26tc%3D-775%26na_%3D-775%26ul_%3D-1475875235558%26_ul%3D-1475875235558%26rd_%3D-1475875235558%26_rd%3D-1475875235558%26fe_%3D-654%26lk_%3D-654%26_lk%3D-654%26co_%3D-654%26_co%3D-654%26rq_%3D-583%26rs_%3D-560%26_rs%3D-330%26dl_%3D-474%26di_%3D-1475875235558%26de_%3D-1475875235558%26_de%3D-1475875235558%26_dc%3D-1475875235558%26ld_%3D-1475875235558%26_ld%3D-1475875235558%26ntd%3D-1%26ty%3D0%26rc%3D0%26hob%3D251%26hoe%3D253%26ul%3D1395%26t%3D1475875236953%26ctb%3D1%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.16.8.14-2016-09-28%26viz%3Dhidden%3A253%26aftb%3D1:1147
+https://www.amazon.ca/favicon.ico
