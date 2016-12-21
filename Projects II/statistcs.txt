@@ -1,0 +1,127 @@
+Hillary: 
+Distict number of urls
+t.co: 227941
+adf.ly: 0
+bit.ly:2703
+goo.gl:371
+
+Twitter
+Total number of timeout:
+i) 55+54+41+52+46+58+54+52+41+53= 456
+# of HAR files: 1843
+Detection rate: 0/50
+
+
+Status Code
+Unique Success(200):330
+0: 98
+100:0
+400: 0
+300: 134
+500:0
+
+Unique Redirect URL
+twitter:62
+google: 34
+
+ 
+
+
+
+Bitly
+timeout: 78
+unique http status:
+500:0
+400:0
+300:4
+200:6
+100:0
+0:19
+
+#of harfiles: 126
+Total unique redirect count: 4
+Empty redirect: 48 redirect 24
+Virus detection: 0/68 for http://www.breitbart.com/2016-presidential-race/2016/11/04/bill-clinton-sexist-guys-wont-vote-for-hillary-just-because-she-is-a-woman/|["https://rudy.adsnative.com/cm.gif?buid=eJRAw8_PdXeSpzuMSxxN&dspid=2147483647'"]
+
+
+
+Google: 6+
+DNS: Not found: http:\/\/goo.gl\/4rA1L, http:\/\/goo.gl\/AQa0h,http:\/\/goo.gl\/QMvaH
+http:\/\/goo.gl\/m3WGC, http:\/\/goo.gl\/0nEsg, http:\/\/goo.gl\/Y6Psc(porn),http:\/\/goo.gl\/8KNRR,
+http:\/\/goo.gl\/3B3y8,http:\/\/goo.gl\/u7kR0(russia)
+https://goo.gl//W8GiX: blacklisted
+
+#of har files: 189
+virus scan: 0/53
+
+HTTP status code
+0: 2
+100:0
+200: 3
+300: 3
+400: 0
+500: 0
+
+
+
+
+
+Donald: 
+Distict number of urls
+t.co: 193295 
+adf.ly:1
+bit.ly:2313
+goo.gl: 289
+
+Twitter
+total number of timeout: 
+i) 43+69+66+62+57+48+57+51+38+54=545
+# of HAR file : 2175
+
+
+HTTP status code
+0: 180
+100:0
+200: 324
+300: 180
+400: 4
+500: 0
+virus scan: 0/54
+
+suspended account: 27 for t.co, goog.gl: 
+
+Bitly
+# of HAR files: 138
+Total unique redirect count: 6
+Empty redirect: 60 redirect 36
+
+HTTP status code
+0: 12
+100:0
+200: 9
+300: 6
+400: 0
+500: 0
+
+
+
+Google:
+DNS not found: http:\/\/goo.gl\/4rA1L, http:\/\/goo.gl\/l26V1, http:\/\/goo.gl\/tlYWr,
+http:\/\/goo.gl\/C3iwY,  http:\/\/goo.gl\/8KNRR, http:\/\/goo.gl\/sRrVo, http:\/\/goo.gl\/tdmfG,
+http:\/\/goo.gl\/ut7U6, http:\/\/goo.gl\/AQa0h, http:\/\/goo.gl\/56SRP, 
+
+http:\/\/goo.gl\/6ummM(spam), 
+#of HAR files: 189
+Detection ratio: 0/53
+
+HTTP status code
+0: 2
+100:0
+200: 3
+300: 3
+400: 0
+500: 0
+
+Unique Redirect URL
+twitter:62
+google: 34
