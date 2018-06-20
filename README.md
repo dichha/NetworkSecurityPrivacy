@@ -1,16 +1,19 @@
-## Tracking the Trackers: Measurement and Analysis of Tracking on the Web (Project 1)
-In this project, found trackers that are present in Alexa's top 500 websites
+## Tracking the Trackers: Measurement and Analysis of Tracking on the Web
+> [This](https://github.com/dichha/NetworkSecurityPrivacy) is a finding for this project.
+
+In this project, found trackers that are present in Alexa's top 1000 websites
 ### Software used
 <a href="http://www.seleniumhq.org/projects/webdriver/">Selenium Firefox webdriver</a> <br />
 <a href="http://fourthparty.info/get_started">FourthParty</a> <br />
 
-[This](https://iowa-my.sharepoint.com/:b:/g/personal/dichharai_uiowa_edu/EVDLVaaO1OZHrammeFddflEBHy5NZ1I7kIr6wrEXYVFvyg?e=ixIR23) is a paper for the project. 
+  
 
-## Analysis of short URLs in a day worth of tweets -- Novemember 5th '16 (Project 2)
+## Analysis of short URLs in a day worth of tweets -- Novemember 5th '16 
+> [This](https://drive.google.com/open?id=1LiMcl6Uo7MTRm7UdO3pGfRHfRLwacvjX) is a paper for the project.
+
 Analysed short URLs that were embedded with hashtag of either of the two presidential candidates. 
 
 ### Software used
 <a href="http://www.seleniumhq.org/projects/webdriver/">Selenium Firefox webdriver</a> <br />
 <a href="https://addons.mozilla.org/en-US/firefox/addon/har-export-trigger/">HAR (HTTP Archive) extension for firefox</a><br />
 
-[This](https://iowa-my.sharepoint.com/:w:/g/personal/dichharai_uiowa_edu/EQW7dKd57i1CpC1NzEnVb34BaHs4O2aG9wt5fOufIYj6XA?e=fNpuax) is a paper for the project. 
